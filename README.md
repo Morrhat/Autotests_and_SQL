@@ -13,8 +13,8 @@
 
 ### Работа с базой данных. Создание SQL-запросов
 ---
-Запросы для базы данных представлены в файле database_SQL_diploma.txt
-Скриншоты с запуском SQL-запросов через Cygwin64 Terminal  3.7.6 – SQL_screenshoot.png; SQL_screenshoot_1.png
+Запросы для базы данных представлены в файле [database_SQL_diploma.txt](https://github.com/Morrhat/Autotests_and_SQL/blob/main/database_SQL_diploma.txt)
+Скриншоты с запуском SQL-запросов через Cygwin64 Terminal  3.7.6 – [SQL_screenshoot.png](https://github.com/Morrhat/Autotests_and_SQL/blob/main/SQL_screenshoot.png); [SQL_screenshoot_1.png](https://github.com/Morrhat/Autotests_and_SQL/blob/main/SQL_screenshoot_1.png)
 
 
 
